@@ -1,0 +1,56 @@
+Scegliere cosa guardare su Netflix
+0. Controlliamo se abbiamo sonno o meno 
+1. Accendiamo la TV
+2. Clicchiamo sul pulsante Netflix 
+3. Chiediamo alle persone che tipologia di serie o film da guardare
+	- SE abbiamo tempo guardiamo un film
+		Film:
+			-proponiamo il genere alle persone:				
+				- SE si sceglie azione:					
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI passiamo prossimo genere 
+
+				- SE si sceglie commedia
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI passiamo prossimo genere 
+
+				- SE si sceglie horror
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI si scorre sui consigli di Netflix
+						-FINCHE' non si trova il film che piace a tutti
+						- SE passano 50 min va al punto 4b
+						-ALTRIMENTI se abbiamo scelto il film si va al punto 4a				
+					
+			
+	- ALTRIMENTI guardiamo una serie tv
+		Serie TV:
+			-proponiamo il genere alle persone:				
+				- SE si sceglie azione:					
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI passiamo prossimo genere 
+
+				- SE si sceglie commedia
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI passiamo prossimo genere 
+
+				- SE si sceglie horror
+					- SE abbiamo dei consigli li segnaliamo agli ospiti
+					- ALTRIMENTI si scorre sui consigli di Netflix
+						-FINCHE' non si trova la serie che piace a tutti
+						- SE passano 50 min va al punto 4b
+						-ALTRIMENTI se abbiamo scelto la serie TV si va al punto 4a	
+
+
+4a. Inizio Film / Serie TV
+
+4b. Spengo la TV
+	 
+	
+
+	 
+	
+	
+	
+
+
+
